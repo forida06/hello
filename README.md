@@ -1,2 +1,2 @@
 # hello
-I love :coffee:,  and :chinese:.
+I love :coffee: and :chinese: .
